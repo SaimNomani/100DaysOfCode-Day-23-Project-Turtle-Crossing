@@ -1,7 +1,7 @@
 from turtle import Turtle
 import random
 
-colors = ['red', 'orange', 'yellow', 'purple', 'black', 'blue', 'green']
+colors = ['red', 'orange', 'yellow', 'purple', 'brown', 'blue', 'green']
 
 
 class Car(Turtle):
